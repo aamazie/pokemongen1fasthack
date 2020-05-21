@@ -26,7 +26,7 @@ https://www.twitch.tv/videos/77888687
 10. Purchase items so you have a total of 6 unique items, one of which are pokeballs
 11. Catch a Pokemon like a Metapod or something and for fun name it Arceus
 12. Brock Through Walls
-   1. Save before you reach the guy so your cursor is on the save because the menu will lock up.
+   1. Save before you reach the guy up to the right at the edge of the city who is supposed to take you to the gym so your cursor is on the save because the menu will lock up.
    2. Walk past him and let him talk until you can hit Start and save.
    3. Let him finish and restart when you start walking automatically without him.
    4. When back in the game, get through his text and hold right until you start walking right out of his view a bit.
