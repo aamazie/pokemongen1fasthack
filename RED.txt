@@ -45,8 +45,8 @@ https://www.twitch.tv/videos/77888687
 19. Battle first Karate Guy in the Saffron Dojo.. make him walk to you, though or the screen will freeze up.
 20. Head back south to Route 6 to encounter Missingno and run away
 21. Toss 2 Escape Ropes beforehand to make your count 127 (If you only had 1 it will be at 129.)
-22. Repeat steps 17-19 to get Escape Ropes to 255
-23. Battle Karate Guy again and encounter second Missingno
+22. Repeat steps 17-19
+23. Encounter second Missingno and run away to get Escape Ropes to 255 (255 is stand-in for Cancel in game's memory drive)
 24. Head into guard house and toss the following items:
    1. Pokeballs
    2. Parlyz Heal
