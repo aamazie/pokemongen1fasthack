@@ -53,6 +53,9 @@ https://www.twitch.tv/videos/77888687
    5. Burn Heal
    6. (Block)2 Escape Rope (Should give you 3 Escape Rope)
 25. Merge the 3 Escape Ropes with the ones right below it with select
+
+NOW YOU HAVE THE MAGIC ITEM BAG THAT WILL TAKE YOU TO HYPERSPACE AND GIVE YOU SUMMONING AND OTHER POWERS
+
 26. Swap the second slot of Escape Ropes with Master Ball. Toss x1 seaJ two slots above the Escape Ropes (enables instant text). Swap TM 27 with Master Ball x17.
 27. If the item below the Escape Ropes you moved has jumbled text, swap it with Ultra Ball x0 and press b to see your character
 28. Head up to Cerulean Cave. Swap Moon Stone with top Boulder Badge. Toss 4 Moon Stones. Swap second Boulder Badge up with Escape Rope. Walk left to encounter Mewtwo. Use Master Ball between the two Escape Ropes.
