@@ -1,8 +1,6 @@
 ﻿GEN 1 POKEMON GAMEBOY FAST VICTORY
 RED/BLUE RBA GUIDE
 (Most of this was written by others and not only Aaron Mazie)
-Note: This guide is for “PP Strats” Only. This is the safest route to completing RBA, so I wanted to make it as accessible to everyone as I could. I’m also aware there is a faster route, but I chose this older method for the same reason as above.
-
 
 If you’re having any trouble with this guide, please watch John Stone’s and Eddaket’s guides on the game here (and follow them while you’re at it):
 https://www.youtube.com/watch?v=InJbog7tJMM
