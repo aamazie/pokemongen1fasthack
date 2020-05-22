@@ -23,14 +23,14 @@ https://www.twitch.tv/videos/77888687
    3. Growl - 36/40
 10. Purchase items so you have a total of 6 unique items, one of which are pokeballs
 11. Catch a Pokemon like a Metapod or something and for fun name it Arceus
-12. Brock Through Walls
+12. Brock Through Walls / Skywalk
    1. Save before you reach the guy up to the right at the edge of the city who is supposed to take you to the gym so your cursor is on the save because the menu will lock up.
    2. Walk past him and let him talk until you can hit Start and save.
    3. Let him finish and restart when you start walking automatically without him.
    4. When back in the game, get through his text and hold right until you start walking right out of his view a bit.
    5. Switch Bulbasaur and Arceus in your Pokemon lineup.
    6. Walk back to the guy and talk to him on his right.
-   7. When he walks away, hold right and you’ll be able to Brock through walls.
+   7. When he walks away, hold right and you’ll be able to Brock through walls / walk-fly (don't go too far out of bounds or game wil corrupt and you'll have to restart)
    8. Make sure to walk right on first ledge
    9. Head south on the bottom-left tile grass patch to the left of bike shop
    10. Go into Saffron Pokemon Center and heal
