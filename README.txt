@@ -56,7 +56,7 @@ https://www.twitch.tv/videos/77888687
 
 NOW YOU HAVE THE MAGIC ITEM BAG THAT WILL TAKE YOU TO HYPERSPACE AND GIVE YOU SUMMONING AND OTHER POWERS
 
-26. Swap the second slot of Escape Ropes with Master Ball. Toss x1 seaJ two slots above the Escape Ropes (enables instant text). Swap TM 27 with Master Ball x17.
+26. SCROLL DOWN PAST THE BOTTOM MANY TIMES IN THE ITEMS INTO ITEM UNDERFLOW TERRIRORY. THIS TERRITORY MAY MAKE IRREVOCABLE CHANGES, SO BE CAUTIOUS IN HOW YOU PROCEED IN HACKING YOUR GAME. Swap the second slot of Escape Ropes with Master Ball. Toss x1 seaJ two slots above the Escape Ropes (enables instant text). Swap TM 27 with Master Ball x17.
 27. If the item below the Escape Ropes you moved has jumbled text, swap it with Ultra Ball x0 and press b to see your character
 28. Head up to Cerulean Cave. Swap Moon Stone with top Boulder Badge. Toss 4 Moon Stones. Swap second Boulder Badge up with Escape Rope. Walk left to encounter Mewtwo. Use Master Ball between the two Escape Ropes.
 29. Open your menu and toss the top stack of items 7 times. Swap top Escape Rope with first CANCEL. Swap j x0 down with the Earth Badge. Swap Pokedex that’s directly above down to the Full Restore x20. Scroll down to 3F (right before “4848”) and swap with HM04, then toss 19 of 3F. Scroll up past the cancel button, close the menu and walk left once.
