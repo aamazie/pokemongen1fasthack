@@ -2,7 +2,7 @@
 RED/BLUE RBA GUIDE
 (Most of this was written by others and not only Aaron Mazie)
 
-If you’re having any trouble with this guide, please watch John Stone’s and Eddaket’s guides on the game here (and follow them while you’re at it):
+If you’re having any trouble with this guide, please watch JohnStone’s and Eddaket’s guides on the game here (and follow them while you’re at it):
 https://www.youtube.com/watch?v=InJbog7tJMM
 https://www.twitch.tv/videos/77888687
 
