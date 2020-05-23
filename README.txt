@@ -87,7 +87,6 @@ Aaron Mazie's advice:
 
 MAGIC ITEM UNDERFLOWING HACKING BAG by luckytyphlosion:
 
-
 items 1-20 + quantity = normal stuff
 item 21 = end of list
 quantity = first money byte
