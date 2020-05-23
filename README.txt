@@ -56,7 +56,11 @@ https://www.twitch.tv/videos/77888687
 
 NOW YOU HAVE THE MAGIC ITEM BAG THAT WILL TAKE YOU TO HYPERSPACE AND GIVE YOU SUMMONING AND OTHER POWERS
 
-26. SCROLL DOWN PAST THE BOTTOM MANY TIMES IN THE ITEMS INTO ITEM UNDERFLOW TERRITORY. THIS TERRITORY MAY MAKE IRREVOCABLE CHANGES, SO BE CAUTIOUS IN HOW YOU PROCEED IN HACKING YOUR GAME. Swap the second slot of Escape Ropes with Master Ball. Toss x1 seaJ two slots above the Escape Ropes (enables instant text). Swap TM 27 with Master Ball x17.
+SCROLL DOWN PAST THE BOTTOM MANY TIMES IN THE ITEMS INTO ITEM UNDERFLOW TERRITORY. THIS TERRITORY MAY MAKE IRREVOCABLE CHANGES, SO BE CAUTIOUS IN HOW YOU PROCEED IN HACKING YOUR GAME.
+
+JohnStone's advice:
+
+26. Swap the second slot of Escape Ropes with Master Ball. Toss x1 seaJ two slots above the Escape Ropes (enables instant text). Swap TM 27 with Master Ball x17.
 27. If the item below the Escape Ropes you moved has jumbled text, swap it with Ultra Ball x0 and press b to see your character
 28. Head up to Cerulean Cave. Swap Moon Stone with top Boulder Badge. Toss 4 Moon Stones. Swap second Boulder Badge up with Escape Rope. Walk left to encounter Mewtwo. Use Master Ball between the two Escape Ropes.
 29. Open your menu and toss the top stack of items 7 times. Swap top Escape Rope with first CANCEL. Swap j x0 down with the Earth Badge. Swap Pokedex that’s directly above down to the Full Restore x20. Scroll down to 3F (right before “4848”) and swap with HM04, then toss 19 of 3F. Scroll up past the cancel button, close the menu and walk left once.
@@ -77,3 +81,69 @@ NOW YOU HAVE THE MAGIC ITEM BAG THAT WILL TAKE YOU TO HYPERSPACE AND GIVE YOU SU
 44. Stand in front of Brock and swap the item you tossed up with the X Attack. Close the menu and talk to Brock. Swift everything.
 45. Walk one tile to the left, use CANCEL. Walk down until you’re past the rocks, flash menu, walk in front of the statue, and walk straight down into the Hall of Fame.
 46. After game won, fly to Viridian, talk to old man to show you how to catch Pokemon, fly to Cinnabar and surf only along the eastern shoreline to encounter MissingNo versions with Master Balls in 6th slot to get 128 Master Balls to catch any Pokemon you encounter. Do the same with Rare Candies to level up any Pokemon to 100.
+
+
+MAGIC ITEM UNDERFLOWING HACKING BAG by luckytyphlosion:
+
+
+items 1-20 + quantity = normal stuff
+item 21 = end of list
+quantity = first money byte
+item 22 = second money byte
+quantity = third money byte
+item 23-27 + quanity = rival name
+item 28 = rival name
+item 28 quantity = options
+item 29 = badges (written in binary)
+item 29 quantity = ???
+item 30 = ???
+item 30 quantity = First part of tid
+item 31 = second part of tid
+item 31 quantity = ???
+item 32 = ??? (usually ultra ball/brightness)
+item 32 quantity = brightness/palletes
+item 33 = map id
+item 33 quantity = first part of top left block pointer
+item 34 = second part of top left block pointer
+item 34 quantity = y coord
+item 35 = x coord
+item 36 quantity = block y coord
+item 37 = block x coord
+item 37 quantity = last outside map visited (warping)
+item 38 = ??? (appears to be based on last map)
+item 38 quantity = map tileset, controls fly/dig/teleport (Executed upon entry)
+item 39 = map height
+item 39 quantity = map width
+item 40 = first part of map pointer (executed upon entry)
+item 40 quantity = second part of map pointer
+item 41 = first part of text pointer (executed upon talking to someone)
+item 41 quantity = second part of text pointer
+item 42 = first part of map script pointer (executed upon closing menu)
+item 42 quantity = second part of map script pointer
+item 43 = map connections
+item 43 quantity = north connection data ("walking" warp for north)
+item 44-48 + quantity = ??? (based off of north connection data)
+item 49 = south connection data
+item 49 quantity to item 54= ??? (based off south connection data)
+item 54 quantity = west connection data
+item 55 to item 59 quantity = ??? (etc)
+item 60 = east connection data
+item 60 quantity to item 64 = ??? (etc)
+item 64 quantity to item 69 quantity = sprites on the map
+item 70 = sprite set id
+item 70 quantity = ???
+item 71 = ???
+item 71 quantity = ???
+item 72 = ???
+item 72 quantity = ???
+item 73 = number of warps
+item 73 quantity =
+
+Then the items get really weird from here, so I'm not sure exactly to put. In an outside map the item 73 and below represent all the outside to inside warps, and it looks like warps are displayed in this format:
+
+Item 1 quantity = Y coord
+Item 2 = X Coord
+Item 2 quantity = Map Index
+Item 3 = Map to Warp to.
+
+Most warps are accessible, but then the game warps but the inventory loops back to the top after 128 items, while the warps keep going. This format also works for inside maps, except there's much less warps, and item 3 is map 255, which corresponds to the last outside map.
