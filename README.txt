@@ -9,13 +9,13 @@ https://www.twitch.tv/videos/77888687
 
 1. Give yourself any name, but make sure your rival’s name is “RRRG--”
 2. Giving yourself the name “xyvw” should have you encounter all possible MissingNo glitch forms.
-3. Collect Potion from PC
+3. Collect Potion from PC because you must beat your rival
 4. Choose Bulbasaur as your starter
 5. Complete Parcel event (Viridian Market) and beat your rival
 6. Heading back to Viridian City, battle one of the following options to get to level 7:
    1. One Lv. 4 Rattata
    2. Two Lv. 2/3 Pidgey/Rattata
-7. Collect hidden Potion in Viridian
+7. Collect hidden Potion in Viridian (optional)
 8. Avoid all trainers in Forest, collect Potion, and battle Weedle Trainer and get to level 8.
 9. Put your moves in this order, as well as have this many PP per move. Battling Metapod/Kakuna is probably the best option. Make sure to get to level 8 and no higher:
    1. Leech Seed - any/10
