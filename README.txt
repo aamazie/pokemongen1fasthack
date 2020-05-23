@@ -16,7 +16,7 @@ https://www.twitch.tv/videos/77888687
    1. One Lv. 4 Rattata
    2. Two Lv. 2/3 Pidgey/Rattata
 7. Collect hidden Potion in Viridian (optional)
-8. Avoid all trainers in Forest, collect Potion, and battle Weedle Trainer and get to level 8.
+8. Avoid all trainers in Forest, collect Potion, and battle one mandatory Weedle trainer and get to level 8.
 9. Put your moves in this order, as well as have this many PP per move. Battling Metapod/Kakuna is probably the best option. Make sure to get to level 8 and no higher:
    1. Leech Seed - any/10
    2. Tackle - 16/35 *wait until step 10
