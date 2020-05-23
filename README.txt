@@ -147,7 +147,5 @@ item 71 = ???
 item 71 quantity = ???
 item 72 = ???
 item 72 quantity = ???
-item 73 = number of warps
-item 73 quantity =
+item 73 quantity = number of warps
 
-...
