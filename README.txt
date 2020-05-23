@@ -1,4 +1,4 @@
-﻿GEN 1 POKEMON GAMEBOY FAST VICTORY
+﻿GEN 1 POKEMON GAMEBOY FAST VICTORY & ULTIMATE GLITCHES
 RED/BLUE RBA GUIDE
 (Most of this was written by others and not only Aaron Mazie)
 
