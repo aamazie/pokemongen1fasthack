@@ -89,10 +89,12 @@ MAGIC ITEM UNDERFLOWING HACKING BAG by luckytyphlosion:
 
 items 1-20 + quantity = normal stuff
 item 21 = end of list
+
+UNSAFE TO MESS WITHOUT CONSEQUENCES:
 quantity = first money byte
 item 22 = second money byte
 quantity = third money byte
-item 23-27 + quanity = rival name
+item 23-27 + quantity = rival name
 item 28 = rival name
 item 28 quantity = options
 item 29 = badges (written in binary)
@@ -108,19 +110,23 @@ item 33 quantity = first part of top left block pointer
 item 34 = second part of top left block pointer
 item 34 quantity = y coord
 item 35 = x coord
-item 36 quantity = block y coord
+item 36 quantity = block y coord (USED FOR WARPING TO DIFFERENT MAP INDEXES)
+item 37 = "panic button" change value to 0 to teleport from inside a building and 3 to dig inside a building
 item 37 = block x coord
-item 37 quantity = last outside map visited (warping)
+item 37 quantity = last outside map visited
 item 38 = ??? (appears to be based on last map)
 item 38 quantity = map tileset, controls fly/dig/teleport (Executed upon entry)
 item 39 = map height
 item 39 quantity = map width
+item 40 = text pointer (tp) item
 item 40 = first part of map pointer (executed upon entry)
 item 40 quantity = second part of map pointer
 item 41 = first part of text pointer (executed upon talking to someone)
 item 41 quantity = second part of text pointer
 item 42 = first part of map script pointer (executed upon closing menu)
 item 42 quantity = second part of map script pointer
+
+SAFE TO MESS WITHOUT CONSEQUENCES IN A BUILDING (ROAMING ITEMS):
 item 43 = map connections
 item 43 quantity = north connection data ("walking" warp for north)
 item 44-48 + quantity = ??? (based off of north connection data)
@@ -140,7 +146,7 @@ item 72 quantity = ???
 item 73 = number of warps
 item 73 quantity =
 
-Then the items get really weird from here, so I'm not sure exactly to put. In an outside map the item 73 and below represent all the outside to inside warps, and it looks like warps are displayed in this format:
+Then the items get really weird from here, not as safe. In an outside map the item 73 and below represent all the outside to inside warps, and it looks like warps are displayed in this format:
 
 Item 1 quantity = Y coord
 Item 2 = X Coord
