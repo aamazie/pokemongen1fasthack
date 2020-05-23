@@ -54,9 +54,11 @@ https://www.twitch.tv/videos/77888687
    6. (Block)2 Escape Rope (Should give you 3 Escape Rope)
 25. Merge the 3 Escape Ropes with the ones right below it with select
 
+
 NOW YOU HAVE THE MAGIC ITEM BAG THAT WILL TAKE YOU TO HYPERSPACE AND GIVE YOU SUMMONING AND OTHER POWERS
 
 SCROLL DOWN PAST THE BOTTOM MANY TIMES IN THE ITEMS INTO ITEM UNDERFLOW TERRITORY. THIS TERRITORY MAY MAKE IRREVOCABLE CHANGES, SO BE CAUTIOUS IN HOW YOU PROCEED IN HACKING YOUR GAME.
+
 
 JohnStone's advice:
 
@@ -81,8 +83,10 @@ JohnStone's advice:
 44. Stand in front of Brock and swap the item you tossed up with the X Attack. Close the menu and talk to Brock. Swift everything.
 45. Walk one tile to the left, use CANCEL. Walk down until you’re past the rocks, flash menu, walk in front of the statue, and walk straight down into the Hall of Fame.
 
+
 Aaron Mazie's advice:
 46. After game won, fly to Viridian, talk to old man to show you how to catch Pokemon, fly to Cinnabar and surf only along the eastern shoreline to encounter MissingNo versions with Master Balls in 6th slot to get 128 Master Balls to catch any Pokemon you encounter. Do the same with Rare Candies to level up any Pokemon to 100.
+
 
 
 MAGIC ITEM UNDERFLOWING HACKING BAG:
