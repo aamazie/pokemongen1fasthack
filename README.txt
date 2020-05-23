@@ -85,7 +85,7 @@ Aaron Mazie's advice:
 46. After game won, fly to Viridian, talk to old man to show you how to catch Pokemon, fly to Cinnabar and surf only along the eastern shoreline to encounter MissingNo versions with Master Balls in 6th slot to get 128 Master Balls to catch any Pokemon you encounter. Do the same with Rare Candies to level up any Pokemon to 100.
 
 
-MAGIC ITEM UNDERFLOWING HACKING BAG by luckytyphlosion:
+MAGIC ITEM UNDERFLOWING HACKING BAG:
 
 items 1-20 + quantity = normal stuff
 item 21 = end of list
@@ -146,11 +146,4 @@ item 72 quantity = ???
 item 73 = number of warps
 item 73 quantity =
 
-Then the items get really weird from here, not as safe. In an outside map the item 73 and below represent all the outside to inside warps, and it looks like warps are displayed in this format:
-
-Item 1 quantity = Y coord
-Item 2 = X Coord
-Item 2 quantity = Map Index
-Item 3 = Map to Warp to.
-
-Most warps are accessible, but then the game warps but the inventory loops back to the top after 128 items, while the warps keep going. This format also works for inside maps, except there's much less warps, and item 3 is map 255, which corresponds to the last outside map.
+...
