@@ -90,6 +90,7 @@ Aaron Mazie's advice:
 
 
 MAGIC ITEM UNDERFLOWING HACKING BAG:
+(If you get stuck scrolling in item underflow, hit B while continuing to scroll)
 
 items 1-20 + quantity = normal stuff
 item 21 = end of list
