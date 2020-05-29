@@ -62,7 +62,6 @@ SCROLL DOWN PAST THE BOTTOM MANY TIMES IN THE ITEMS INTO ITEM UNDERFLOW TERRITOR
 
 
 JohnStone's advice:
-
 26. Swap the second slot of Escape Ropes with Master Ball. Toss x1 seaJ two slots above the Escape Ropes (enables instant text). Swap TM 27 with Master Ball x17.
 27. If the item below the Escape Ropes you moved has jumbled text, swap it with Ultra Ball x0 and press b to see your character
 28. Head up to Cerulean Cave. Swap Moon Stone with top Boulder Badge. Toss 4 Moon Stones. Swap second Boulder Badge up with Escape Rope. Walk left to encounter Mewtwo. Use Master Ball between the two Escape Ropes.
