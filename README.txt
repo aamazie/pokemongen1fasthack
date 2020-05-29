@@ -153,7 +153,7 @@ item 73 quantity = number of warps
 
 
 
-BIT MAP FOR WARPING TO DIFFERENT LOCATION WITH THE WARPING / REF ITEM ^^
+BIT MAP FOR WARPING TO DIFFERENT LOCATIONS WITH THE WARPING / REF ITEM ^^
 # 	Hex 	Location 	Bank[1]
 000 	0x00 	Pallet Town 	6
 001 	0x01 	Viridian City 	6
