@@ -2,10 +2,6 @@
 RED/BLUE RBA GUIDE
 (Most of this was written by others and not only Aaron Mazie)
 
-If you’re having any trouble with this guide, please watch JohnStone’s and Eddaket’s guides on the game here (and follow them while you’re at it):
-https://www.youtube.com/watch?v=InJbog7tJMM
-https://www.twitch.tv/videos/77888687
-
 NOT THE FASTEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
 
 1. Give yourself any name, but make sure your rival’s name is “RRRG--”
