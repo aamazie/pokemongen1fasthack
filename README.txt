@@ -1,4 +1,4 @@
-﻿GEN 1 POKEMON GAMEBOY FAST VICTORY & ULTIMATE GLITCHES
+﻿GEN 1 POKEMON GAMEBOY FAST VICTORY & ULTIMATE HACKING GLITCHES
 RED/BLUE RBA GUIDE
 (Most of this was written by others and not only Aaron Mazie)
 
@@ -6,6 +6,7 @@ If you’re having any trouble with this guide, please watch JohnStone’s and E
 https://www.youtube.com/watch?v=InJbog7tJMM
 https://www.twitch.tv/videos/77888687
 
+NOT THE FASEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
 
 1. Give yourself any name, but make sure your rival’s name is “RRRG--”
 2. Giving yourself the name “xyvw” should have you encounter all possible MissingNo glitch forms.
@@ -85,7 +86,8 @@ JohnStone's advice:
 
 
 Aaron Mazie's advice:
-46. After game won, fly to Viridian, talk to old man to show you how to catch Pokemon, fly to Cinnabar and surf only along the eastern shoreline to encounter MissingNo versions with Master Balls in 6th slot to get 128 Master Balls to catch any Pokemon you encounter. Do the same with Rare Candies to level up any Pokemon to 100.
+26. Select TM26 . Select Master Ball x7. Toss 9 of those TM26s. Exit the building back north and be in the Hall of Fame.
+46/27. After game won, fly to Viridian, talk to old man to show you how to catch Pokemon, fly to Cinnabar and surf only along the eastern shoreline to encounter MissingNo versions with Master Balls in 6th slot to get 128 Master Balls to catch any Pokemon you encounter. Do the same with Rare Candies to level up any Pokemon to 100.
 
 
 
