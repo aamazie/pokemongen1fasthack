@@ -86,7 +86,7 @@ JohnStone's advice:
 
 
 Aaron Mazie's advice:
-26. Select TM26 . Select Master Ball x7. Toss 9 of those TM26s. Exit the building back north and be in the Hall of Fame.
+26. Select TM26 X▓7 . Select Master Ball x17. Toss 9 of those TM26s. Exit the building back north and be in the Hall of Fame.
 46/27. After game won, fly to Viridian, talk to old man to show you how to catch Pokemon, fly to Cinnabar and surf only along the eastern shoreline to encounter MissingNo versions with Master Balls in 6th slot to get 128 Master Balls to catch any Pokemon you encounter. Do the same with Rare Candies to level up any Pokemon to 100.
 
 
