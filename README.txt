@@ -6,7 +6,7 @@ If you’re having any trouble with this guide, please watch JohnStone’s and E
 https://www.youtube.com/watch?v=InJbog7tJMM
 https://www.twitch.tv/videos/77888687
 
-NOT THE FASEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
+NOT THE FASTEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
 
 1. Give yourself any name, but make sure your rival’s name is “RRRG--”
 2. Giving yourself the name “xyvw” should have you encounter all possible MissingNo glitch forms.
