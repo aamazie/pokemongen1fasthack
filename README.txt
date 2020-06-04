@@ -410,3 +410,7 @@ Bulbasaur adoption house (Pokémon Yellow) 	7
 254 	0xFE 	(Invalid) 	 ?
 255 	0xFF 	 ? 
 
+
+
+
+In catching all available Pokemon in your version of the game (Red and Blue have different possibilities), using this bit map, you will have difficulty with the Safari Zone, as it does not allow you to throw Master Balls. Instead, buy the Safari Balls and walk into the Safari Zone and immediately exit, telling the guard you would like to leave early. Then, warp to Cinnabar Island and surf along the eastern shoreline as if you were looking for MissingNos and you'll enclounter all the Safari Zone Pokemon and able to throw Master Balls that way.
