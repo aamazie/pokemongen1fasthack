@@ -39,7 +39,7 @@ NOT THE FASTEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
 18. Head to Route 6 and trainer fly (walk into trainer’s view but pause and fly/teleport with Abra before the game notices you)
 19. Battle first Karate Guy in the Saffron Dojo.. make him walk to you, though, or the screen will freeze up.
 20. Head back south to Route 6 to encounter MissingNo and run away
-21. Toss 2 Escape Ropes beforehand to make your count 127 (If you only had 1 it will be at 129.)
+21. Toss 2 Escape Ropes beforehand to make your count 127 (If you only had 1 it will be at 129 a.k.a. ▓9.)
 22. Repeat steps 17-19
 23. Encounter second Missingno and run away to get Escape Ropes to 255 (255 is stand-in for CANCEL in game's memory drive)
 24. Head into guard house and toss the following items:
