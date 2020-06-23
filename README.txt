@@ -2,6 +2,8 @@
 RED/BLUE RBA GUIDE
 (Most of this was written by others and not only Aaron Mazie)
 
+**SEE TRAINER-FLY HACK IMAGE MAP TO SEE WHERE TO GLITCH TO CATCH MEW AND OTHERS**
+
 NOT THE FASTEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
 
 1. Give yourself any name, but make sure your rival’s name is “RRRG--”
