@@ -419,4 +419,4 @@ In catching all available Pokemon in your version of the game (Red and Blue have
 you will have difficulty with the Safari Zone, as it does not allow you to throw Master Balls.
 Instead, buy the Safari Balls and walk into the Safari Zone and immediately exit, telling the guard you would like
 to leave early. Then, warp to Cinnabar Island and surf along the eastern shoreline as if you were looking for MissingNos
-and you'll enclounter all the Safari Zone Pokemon and able to throw Master Balls that way.
+and you'll encounter all the Safari Zone Pokemon and able to throw Master Balls that way.
