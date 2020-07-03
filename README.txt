@@ -38,7 +38,7 @@ NOT THE FASTEST WAY TO HACK THROUGH, BUT MOST RELIABLE:
 15. Collect Coin Case from the guy in the corner in the diner (make sure Escape Rope is in slot 6)
 16. Collect coins in Game Corner and purchase Abra
 17. Teleport to Saffron City and deposit Bulbasaur and Arceus into the PC
-18. Head to Route 6 and trainer fly (walk into trainer’s view but pause and fly/teleport with Abra before the game notices you)
+18. Head SOUTH to Route 6 and trainer fly (walk into trainer’s view but pause and fly/teleport with Abra before the game notices you)
 19. Battle first Karate Guy in the Saffron Dojo.. make him walk to you, though, or the screen will freeze up.
 20. Head back south to Route 6 to encounter MissingNo and run away
 21. Toss 2 Escape Ropes beforehand to make your count 127 (If you only had 1 it will be at 129 a.k.a. ▓9.)
